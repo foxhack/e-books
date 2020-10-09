@@ -11,7 +11,7 @@
 - [设计模式](#设计模式)
 - [Java教程](#Java教程)
 - [Android教程](#Android教程)
-- [C#教程](#C#教程)
+- [C Sharp教程](#C Sharp教程)
 - [Unity教程](#Unity教程)
 - [免责声明](#免责声明)
 
@@ -52,8 +52,8 @@
 - 《疯狂Android讲义》                链接：https://pan.baidu.com/s/1hkxxDr9AY0uICi6_qfSD0w
 - 《Android应用开发入门教程(经典版)》链接：https://pan.baidu.com/s/1CNgWcXsGPM8BBHFyM8CnRQ
 
-# C#教程
-- 《零点起飞学 C#》链接：https://pan.baidu.com/s/1liqqBxqThdfpLulNoi-vwQ 
+# C Sharp教程
+- 《零点起飞学C#》链接：https://pan.baidu.com/s/1liqqBxqThdfpLulNoi-vwQ 
 
 # Unity教程
 - 《Unity 3D手机游戏开发》   链接：https://pan.baidu.com/s/1ZmgfOJwQvZ35vdCSV6KEWw 
