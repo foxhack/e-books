@@ -8,6 +8,11 @@
 - [硬件基础](#硬件基础)
 - [DPDK](#DPDK)
 - [计算机网络](#计算机网络)
+- [设计模式](#设计模式)
+- [Java教程](#Java教程)
+- [Android教程](#Android教程)
+- [C#教程](#C#教程)
+- [Unity教程](#Unity教程)
 - [免责声明](#免责声明)
 
 
@@ -20,8 +25,8 @@
 
 ### 计算机科学导论
 
-- 《计算机科学导论》   链接：https://pan.baidu.com/s/1yNCGHBohjRkzC5WG8sj67Q  
-
+- 《计算机科学导论》       链接：https://pan.baidu.com/s/1yNCGHBohjRkzC5WG8sj67Q  
+- 《计算机科学导论_佛罗赞》链接：https://pan.baidu.com/s/1a31j8HsqBkGh6cfpa2gtRA 
 
 # 硬件基础
 
@@ -36,6 +41,23 @@
 
 - 《华为数据中心网络设计指南》：链接：https://pan.baidu.com/s/1kEX8lPhHQMz1O98_QlH9jQ  
 - 《数据中心网络技术红宝书》：  链接：https://pan.baidu.com/s/1V2OQbj1hDNO9gnZKvQMIKQ  
+
+# 设计模式
+
+# Java教程
+- 《Java编程思想(第4版)》链接：https://pan.baidu.com/s/1hWNt5TLcuD3oQaZczO-3xg
+- 《Java基础教程》       链接：https://pan.baidu.com/s/15VhsluUQKQRaEDt7rlfbng
+
+# Android教程
+- 《疯狂Android讲义》                链接：https://pan.baidu.com/s/1hkxxDr9AY0uICi6_qfSD0w
+- 《Android应用开发入门教程(经典版)》链接：https://pan.baidu.com/s/1CNgWcXsGPM8BBHFyM8CnRQ
+
+# C#教程
+- 《零点起飞学 C#》链接：https://pan.baidu.com/s/1liqqBxqThdfpLulNoi-vwQ 
+
+# Unity教程
+- 《Unity 3D手机游戏开发》   链接：https://pan.baidu.com/s/1ZmgfOJwQvZ35vdCSV6KEWw 
+- 《Unity3D游戏开发(第二版)》链接：https://pan.baidu.com/s/1vjvNtS4yqlCIk_7ey12Vdw 
 
 
 # 免责声明
